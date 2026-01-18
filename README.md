@@ -1,1 +1,1 @@
-# CryptoHack
+# CryptoHack Challenges
